@@ -36,3 +36,8 @@ I am a Python developer with a strong foundation in **Data Structures & Algorith
 To become a **high-impact software engineer** by mastering **problem-solving, system design, and backend development**, and to contribute meaningfully to any team I join.
 
 ---
+
+## 📈 GitHub Activity Graph  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pari658&theme=react-dark)
+
