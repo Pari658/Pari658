@@ -27,9 +27,6 @@ I am a Python developer with a strong foundation in **Data Structures & Algorith
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-0A66C2?style=for-the-badge)
 
-
-
-
 ---
 ### 🧠 LeetCode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/PariChess07?theme=dark&font=Fira%20Code&ext=heatmap)
