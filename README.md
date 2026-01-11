@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Pari Patel  
+**Python Developer | DSA Enthusiast | Problem Solver**
 
-<!--
-**Pari658/Pari658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Python developer with a strong foundation in **Data Structures & Algorithms** and a passion for building efficient, scalable, and real-world applications. I enjoy converting complex problems into clean, optimized code and continuously improving my engineering skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do  
+- Build backend systems using **Python & Flask**  
+- Solve **DSA & competitive programming** problems  
+- Design clean, functional **web applications**  
+- Optimize code for **performance and scalability**
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:** Python, C++  
+**Web:** HTML, CSS, JavaScript, Flask  
+**CS Fundamentals:** Data Structures, Algorithms, DBMS, Computer Networks  
+**Tools:** GitHub, Git, Linux  
+
+
+---
+
+## 🎯 My Goal  
+To become a **high-impact software engineer** by mastering **problem-solving, system design, and backend development**, and to contribute meaningfully to any team I join.
+
+---
