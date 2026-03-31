@@ -1,7 +1,7 @@
 # 👋 Pari Patel  
 **Python Developer | DSA Enthusiast | Problem Solver**
 
-I am a Python developer with a strong foundation in **Data Structures & Algorithms** and a passion for building efficient, scalable, and real-world applications. I enjoy converting complex problems into clean, optimized code and continuously improving my engineering skills.
+I am a Python and MERN developer with a strong foundation in **Data Structures & Algorithms** and a passion for building efficient, scalable, and real-world applications. I enjoy converting complex problems into clean, optimized code and continuously improving my engineering skills.
 
 ---
 
